@@ -16,7 +16,7 @@ yarn
 ## Démarrage du serveur
     
 ```bash
-yarn dev
+yarn start
 ```
 
 ## Déploiement
